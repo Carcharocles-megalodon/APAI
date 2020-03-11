@@ -1,0 +1,11 @@
+C:\Users\a036302\Desktop\APAI_Exs\APAI\DJDStack\DJDStack\APAI_Exs\APAI_Exs\bin\Debug\netcoreapp3.0\APAI_Exs.exe
+C:\Users\a036302\Desktop\APAI_Exs\APAI\DJDStack\DJDStack\APAI_Exs\APAI_Exs\bin\Debug\netcoreapp3.0\APAI_Exs.deps.json
+C:\Users\a036302\Desktop\APAI_Exs\APAI\DJDStack\DJDStack\APAI_Exs\APAI_Exs\bin\Debug\netcoreapp3.0\APAI_Exs.runtimeconfig.json
+C:\Users\a036302\Desktop\APAI_Exs\APAI\DJDStack\DJDStack\APAI_Exs\APAI_Exs\bin\Debug\netcoreapp3.0\APAI_Exs.runtimeconfig.dev.json
+C:\Users\a036302\Desktop\APAI_Exs\APAI\DJDStack\DJDStack\APAI_Exs\APAI_Exs\bin\Debug\netcoreapp3.0\APAI_Exs.dll
+C:\Users\a036302\Desktop\APAI_Exs\APAI\DJDStack\DJDStack\APAI_Exs\APAI_Exs\bin\Debug\netcoreapp3.0\APAI_Exs.pdb
+C:\Users\a036302\Desktop\APAI_Exs\APAI\DJDStack\DJDStack\APAI_Exs\APAI_Exs\obj\Debug\netcoreapp3.0\APAI_Exs.csprojAssemblyReference.cache
+C:\Users\a036302\Desktop\APAI_Exs\APAI\DJDStack\DJDStack\APAI_Exs\APAI_Exs\obj\Debug\netcoreapp3.0\APAI_Exs.AssemblyInfoInputs.cache
+C:\Users\a036302\Desktop\APAI_Exs\APAI\DJDStack\DJDStack\APAI_Exs\APAI_Exs\obj\Debug\netcoreapp3.0\APAI_Exs.AssemblyInfo.cs
+C:\Users\a036302\Desktop\APAI_Exs\APAI\DJDStack\DJDStack\APAI_Exs\APAI_Exs\obj\Debug\netcoreapp3.0\APAI_Exs.dll
+C:\Users\a036302\Desktop\APAI_Exs\APAI\DJDStack\DJDStack\APAI_Exs\APAI_Exs\obj\Debug\netcoreapp3.0\APAI_Exs.pdb

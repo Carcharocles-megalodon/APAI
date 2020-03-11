@@ -21,9 +21,9 @@ namespace APAIProjs
 
         public void Push(int add)
         {
-            if (index>= stack.Length)
+            if (index>= stack.Length-1)
             {
-                Console.WriteLine("Stack too big;");
+                throw new IndexOutOfRangeException("Stack too big;");
             }
             else
             {
@@ -36,8 +36,7 @@ namespace APAIProjs
         {
             if(index <= 0)
             {
-                Console.WriteLine("Already empty.");
-                return 0;
+                throw new InvalidOperationException ("Already empty.");
             }
             else
             {
@@ -46,10 +45,10 @@ namespace APAIProjs
         }
         public int Peek()
         {
-            if (index <= 0)
+            if (index < 0)
             {
-                Console.WriteLine("Nothing there anymore, mate, it's empty.");
-                return 0;
+                index = 0;
+                throw new InvalidOperationException("Empty stack mate.");
             }
             else
             {

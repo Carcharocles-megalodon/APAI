@@ -1,0 +1,11 @@
+C:\Users\Geral\source\repos\APAI\Inventory+Item\Inventory+Item\bin\Debug\netcoreapp3.1\Inventory+Item.exe
+C:\Users\Geral\source\repos\APAI\Inventory+Item\Inventory+Item\bin\Debug\netcoreapp3.1\Inventory+Item.deps.json
+C:\Users\Geral\source\repos\APAI\Inventory+Item\Inventory+Item\bin\Debug\netcoreapp3.1\Inventory+Item.runtimeconfig.json
+C:\Users\Geral\source\repos\APAI\Inventory+Item\Inventory+Item\bin\Debug\netcoreapp3.1\Inventory+Item.runtimeconfig.dev.json
+C:\Users\Geral\source\repos\APAI\Inventory+Item\Inventory+Item\bin\Debug\netcoreapp3.1\Inventory+Item.dll
+C:\Users\Geral\source\repos\APAI\Inventory+Item\Inventory+Item\bin\Debug\netcoreapp3.1\Inventory+Item.pdb
+C:\Users\Geral\source\repos\APAI\Inventory+Item\Inventory+Item\obj\Debug\netcoreapp3.1\Inventory+Item.csprojAssemblyReference.cache
+C:\Users\Geral\source\repos\APAI\Inventory+Item\Inventory+Item\obj\Debug\netcoreapp3.1\Inventory+Item.AssemblyInfoInputs.cache
+C:\Users\Geral\source\repos\APAI\Inventory+Item\Inventory+Item\obj\Debug\netcoreapp3.1\Inventory+Item.AssemblyInfo.cs
+C:\Users\Geral\source\repos\APAI\Inventory+Item\Inventory+Item\obj\Debug\netcoreapp3.1\Inventory+Item.dll
+C:\Users\Geral\source\repos\APAI\Inventory+Item\Inventory+Item\obj\Debug\netcoreapp3.1\Inventory+Item.pdb

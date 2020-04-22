@@ -1,0 +1,11 @@
+C:\Users\Geral\source\repos\APAI\Lyrics_APAIConsumeCSV\Lyrics_APAIConsumeCSV\bin\Debug\netcoreapp3.1\Lyrics_APAIConsumeCSV.exe
+C:\Users\Geral\source\repos\APAI\Lyrics_APAIConsumeCSV\Lyrics_APAIConsumeCSV\bin\Debug\netcoreapp3.1\Lyrics_APAIConsumeCSV.deps.json
+C:\Users\Geral\source\repos\APAI\Lyrics_APAIConsumeCSV\Lyrics_APAIConsumeCSV\bin\Debug\netcoreapp3.1\Lyrics_APAIConsumeCSV.runtimeconfig.json
+C:\Users\Geral\source\repos\APAI\Lyrics_APAIConsumeCSV\Lyrics_APAIConsumeCSV\bin\Debug\netcoreapp3.1\Lyrics_APAIConsumeCSV.runtimeconfig.dev.json
+C:\Users\Geral\source\repos\APAI\Lyrics_APAIConsumeCSV\Lyrics_APAIConsumeCSV\bin\Debug\netcoreapp3.1\Lyrics_APAIConsumeCSV.dll
+C:\Users\Geral\source\repos\APAI\Lyrics_APAIConsumeCSV\Lyrics_APAIConsumeCSV\bin\Debug\netcoreapp3.1\Lyrics_APAIConsumeCSV.pdb
+C:\Users\Geral\source\repos\APAI\Lyrics_APAIConsumeCSV\Lyrics_APAIConsumeCSV\obj\Debug\netcoreapp3.1\Lyrics_APAIConsumeCSV.csprojAssemblyReference.cache
+C:\Users\Geral\source\repos\APAI\Lyrics_APAIConsumeCSV\Lyrics_APAIConsumeCSV\obj\Debug\netcoreapp3.1\Lyrics_APAIConsumeCSV.AssemblyInfoInputs.cache
+C:\Users\Geral\source\repos\APAI\Lyrics_APAIConsumeCSV\Lyrics_APAIConsumeCSV\obj\Debug\netcoreapp3.1\Lyrics_APAIConsumeCSV.AssemblyInfo.cs
+C:\Users\Geral\source\repos\APAI\Lyrics_APAIConsumeCSV\Lyrics_APAIConsumeCSV\obj\Debug\netcoreapp3.1\Lyrics_APAIConsumeCSV.dll
+C:\Users\Geral\source\repos\APAI\Lyrics_APAIConsumeCSV\Lyrics_APAIConsumeCSV\obj\Debug\netcoreapp3.1\Lyrics_APAIConsumeCSV.pdb

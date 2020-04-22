@@ -1,0 +1,13 @@
+C:\Users\Geral\source\repos\APAI\JSON Learning\JSON Learning\bin\Debug\netcoreapp3.1\JSON Learning.exe
+C:\Users\Geral\source\repos\APAI\JSON Learning\JSON Learning\obj\Debug\netcoreapp3.1\JSON Learning.csprojAssemblyReference.cache
+C:\Users\Geral\source\repos\APAI\JSON Learning\JSON Learning\obj\Debug\netcoreapp3.1\JSON Learning.AssemblyInfoInputs.cache
+C:\Users\Geral\source\repos\APAI\JSON Learning\JSON Learning\obj\Debug\netcoreapp3.1\JSON Learning.AssemblyInfo.cs
+C:\Users\Geral\source\repos\APAI\JSON Learning\JSON Learning\bin\Debug\netcoreapp3.1\JSON Learning.deps.json
+C:\Users\Geral\source\repos\APAI\JSON Learning\JSON Learning\bin\Debug\netcoreapp3.1\JSON Learning.runtimeconfig.json
+C:\Users\Geral\source\repos\APAI\JSON Learning\JSON Learning\bin\Debug\netcoreapp3.1\JSON Learning.runtimeconfig.dev.json
+C:\Users\Geral\source\repos\APAI\JSON Learning\JSON Learning\bin\Debug\netcoreapp3.1\JSON Learning.dll
+C:\Users\Geral\source\repos\APAI\JSON Learning\JSON Learning\bin\Debug\netcoreapp3.1\JSON Learning.pdb
+C:\Users\Geral\source\repos\APAI\JSON Learning\JSON Learning\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Geral\source\repos\APAI\JSON Learning\JSON Learning\obj\Debug\netcoreapp3.1\JSON Learning.csproj.CopyComplete
+C:\Users\Geral\source\repos\APAI\JSON Learning\JSON Learning\obj\Debug\netcoreapp3.1\JSON Learning.dll
+C:\Users\Geral\source\repos\APAI\JSON Learning\JSON Learning\obj\Debug\netcoreapp3.1\JSON Learning.pdb

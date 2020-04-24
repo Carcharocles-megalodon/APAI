@@ -1,0 +1,11 @@
+C:\Users\Geral\source\repos\AnagramTarefa\AnagramTarefa\bin\Debug\netcoreapp3.1\AnagramTarefa.exe
+C:\Users\Geral\source\repos\AnagramTarefa\AnagramTarefa\bin\Debug\netcoreapp3.1\AnagramTarefa.deps.json
+C:\Users\Geral\source\repos\AnagramTarefa\AnagramTarefa\bin\Debug\netcoreapp3.1\AnagramTarefa.runtimeconfig.json
+C:\Users\Geral\source\repos\AnagramTarefa\AnagramTarefa\bin\Debug\netcoreapp3.1\AnagramTarefa.runtimeconfig.dev.json
+C:\Users\Geral\source\repos\AnagramTarefa\AnagramTarefa\bin\Debug\netcoreapp3.1\AnagramTarefa.dll
+C:\Users\Geral\source\repos\AnagramTarefa\AnagramTarefa\bin\Debug\netcoreapp3.1\AnagramTarefa.pdb
+C:\Users\Geral\source\repos\AnagramTarefa\AnagramTarefa\obj\Debug\netcoreapp3.1\AnagramTarefa.csprojAssemblyReference.cache
+C:\Users\Geral\source\repos\AnagramTarefa\AnagramTarefa\obj\Debug\netcoreapp3.1\AnagramTarefa.AssemblyInfoInputs.cache
+C:\Users\Geral\source\repos\AnagramTarefa\AnagramTarefa\obj\Debug\netcoreapp3.1\AnagramTarefa.AssemblyInfo.cs
+C:\Users\Geral\source\repos\AnagramTarefa\AnagramTarefa\obj\Debug\netcoreapp3.1\AnagramTarefa.dll
+C:\Users\Geral\source\repos\AnagramTarefa\AnagramTarefa\obj\Debug\netcoreapp3.1\AnagramTarefa.pdb

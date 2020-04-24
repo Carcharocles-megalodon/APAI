@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Geral\\source\\repos\\AnagramTarefa\\AnagramTarefa\\AnagramTarefa.csproj": {}
+    "C:\\Users\\Geral\\source\\repos\\APAI\\AnagramTarefa\\AnagramTarefa\\AnagramTarefa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Geral\\source\\repos\\AnagramTarefa\\AnagramTarefa\\AnagramTarefa.csproj": {
+    "C:\\Users\\Geral\\source\\repos\\APAI\\AnagramTarefa\\AnagramTarefa\\AnagramTarefa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Geral\\source\\repos\\AnagramTarefa\\AnagramTarefa\\AnagramTarefa.csproj",
+        "projectUniqueName": "C:\\Users\\Geral\\source\\repos\\APAI\\AnagramTarefa\\AnagramTarefa\\AnagramTarefa.csproj",
         "projectName": "AnagramTarefa",
-        "projectPath": "C:\\Users\\Geral\\source\\repos\\AnagramTarefa\\AnagramTarefa\\AnagramTarefa.csproj",
+        "projectPath": "C:\\Users\\Geral\\source\\repos\\APAI\\AnagramTarefa\\AnagramTarefa\\AnagramTarefa.csproj",
         "packagesPath": "C:\\Users\\Geral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Geral\\source\\repos\\AnagramTarefa\\AnagramTarefa\\obj\\",
+        "outputPath": "C:\\Users\\Geral\\source\\repos\\APAI\\AnagramTarefa\\AnagramTarefa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Geral\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -23,7 +23,23 @@ namespace AnagramTarefa
             Array.Sort(word1Char);
             Array.Sort(word2Char);
 
-            return word1Char == word2Char;
+
+            if (word1.Length != word2.Length)
+            {
+                return false;
+            }
+            else
+            {
+                for (int i = 0; i < word2Char.Length; i++)
+                {
+                    if (word1Char[i] != word2Char[i])
+                    {
+                        return false;
+                    }
+
+                }
+                return true;
+            }
         }
     }
 }

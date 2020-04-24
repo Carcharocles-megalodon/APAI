@@ -1,0 +1,11 @@
+C:\Users\Geral\source\repos\APAI\InvertedAPAIEx\InvertedAPAIEx\bin\Debug\netcoreapp3.1\InvertedAPAIEx.exe
+C:\Users\Geral\source\repos\APAI\InvertedAPAIEx\InvertedAPAIEx\bin\Debug\netcoreapp3.1\InvertedAPAIEx.deps.json
+C:\Users\Geral\source\repos\APAI\InvertedAPAIEx\InvertedAPAIEx\bin\Debug\netcoreapp3.1\InvertedAPAIEx.runtimeconfig.json
+C:\Users\Geral\source\repos\APAI\InvertedAPAIEx\InvertedAPAIEx\bin\Debug\netcoreapp3.1\InvertedAPAIEx.runtimeconfig.dev.json
+C:\Users\Geral\source\repos\APAI\InvertedAPAIEx\InvertedAPAIEx\bin\Debug\netcoreapp3.1\InvertedAPAIEx.dll
+C:\Users\Geral\source\repos\APAI\InvertedAPAIEx\InvertedAPAIEx\bin\Debug\netcoreapp3.1\InvertedAPAIEx.pdb
+C:\Users\Geral\source\repos\APAI\InvertedAPAIEx\InvertedAPAIEx\obj\Debug\netcoreapp3.1\InvertedAPAIEx.csprojAssemblyReference.cache
+C:\Users\Geral\source\repos\APAI\InvertedAPAIEx\InvertedAPAIEx\obj\Debug\netcoreapp3.1\InvertedAPAIEx.AssemblyInfoInputs.cache
+C:\Users\Geral\source\repos\APAI\InvertedAPAIEx\InvertedAPAIEx\obj\Debug\netcoreapp3.1\InvertedAPAIEx.AssemblyInfo.cs
+C:\Users\Geral\source\repos\APAI\InvertedAPAIEx\InvertedAPAIEx\obj\Debug\netcoreapp3.1\InvertedAPAIEx.dll
+C:\Users\Geral\source\repos\APAI\InvertedAPAIEx\InvertedAPAIEx\obj\Debug\netcoreapp3.1\InvertedAPAIEx.pdb

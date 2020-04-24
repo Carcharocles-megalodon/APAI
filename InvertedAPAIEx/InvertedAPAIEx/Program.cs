@@ -8,19 +8,21 @@ namespace InvertedAPAIEx
     {
         static void Main(string[] args)
         {
-            string[] lines = File.ReadAllText("lines.txt").Split('.', StringSplitOptions.RemoveEmptyEntries);
+            string[] lines = File.ReadAllLines("lines.txt");
             string[] inverted = new string[lines.Length];
             int j = 0;
             while (j < lines.Length-1)
             {
-                for (int i = lines.Length; i > 0; i--)
+                for (int i = lines.Length-1; i > 0; i--)
                 {
                     inverted[j] = lines[i];
                     j++;
                 }
             }
-            Console.WriteLine(inverted);
-            File.WriteAllLines("lines.txt", inverted);
+            string path = @"C:\Users\Geral\source\repos\APAI\InvertedAPAIEx\lines_inverted.txt";
+            File.Create(path);
+            
+            File.WriteAllLines(path, inverted);
         }
     }
 }

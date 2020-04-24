@@ -13,14 +13,17 @@ namespace InvertedAPAIEx
             int j = 0;
             while (j < lines.Length-1)
             {
-                for (int i = lines.Length-1; i > 0; i--)
+                for (int i = lines.Length-1; i >= 0; i--)
                 {
                     inverted[j] = lines[i];
                     j++;
                 }
             }
             string path = @"C:\Users\Geral\source\repos\APAI\InvertedAPAIEx\lines_inverted.txt";
-            File.Create(path);
+            if (!File.Exists(path))
+            {
+                File.Create(path);
+            }
             
             File.WriteAllLines(path, inverted);
         }

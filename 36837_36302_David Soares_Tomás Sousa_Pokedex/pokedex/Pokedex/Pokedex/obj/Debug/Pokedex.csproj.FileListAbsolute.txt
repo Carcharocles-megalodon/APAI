@@ -1,0 +1,5 @@
+C:\Users\dst30\source\repos\apai\New folder\Pokedex\Pokedex\obj\Debug\Pokedex.csprojAssemblyReference.cache
+C:\Users\dst30\source\repos\apai\New folder\Pokedex\Pokedex\obj\Debug\Pokedex.Form1.resources
+C:\Users\dst30\source\repos\apai\New folder\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+C:\Users\dst30\source\repos\apai\New folder\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.cache
+C:\Users\dst30\source\repos\apai\New folder\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.CoreCompileInputs.cache
